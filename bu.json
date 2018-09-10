@@ -1,0 +1,498 @@
+{
+    "2009": {
+        "a": [
+            {"title":"Water temperature","ranges":[0,0,20],"measures":[14.91666667,14.91666667],"markers":[14]},
+            {"title":"Total Hardness","ranges":[0,0,150],"measures":[0,0],"markers":[131.95]}
+        ],
+        "b": [
+            {"title":"Carbonates","ranges":[0,0,25],"measures":[0,0],"markers":[18.575]},
+            {"title":"Bicarbonates","ranges":[0,2,4],"measures":[112.3416667, 112.3416667],"markers":[0.5]}
+        ],
+        "c": [
+            {"title":"Chlorides","ranges":[0,0,50],"measures":[8.325,8.325],"markers":[0.1]},
+            {"title":"Cyanides","ranges":[0,2,4],"measures":[0.0025,0.0025],"markers":[0.5]},
+            {"title":"Nitrates","ranges":[0,0,50],"measures":[1.280666667,1.280666667],"markers":[1.5]},
+            {"title":"Nitrites","ranges":[0,0,50],"measures":[0.043666667,0.043666667],"markers":[1.5]},
+            {"title":"Sulphates","ranges":[0,0,50],"measures":[22.7,22.7],"markers":[1.5]}
+        ],
+        "d": [
+            {"title":"Nickel","ranges":[0,0,50],"measures":[1.6375,1.6375],"markers":[0.1]},
+            {"title":"Copper","ranges":[0,0,50],"measures":[6.5875,6.5875],"markers":[0.1]},
+            {"title":"Iron","ranges":[0,0,50],"measures":[0.1975,0.1975],"markers":[0.1]},
+            {"title":"Magnesium","ranges":[0,0,50],"measures":[5.85,5.85],"markers":[0.1]},
+            {"title":"Cadmium","ranges":[0,0,50],"measures":[0.3,0.3],"markers":[0.1]},
+            {"title":"Manganese","ranges":[0,0,50],"measures":[0.19875,0.19875],"markers":[0.1]},
+            {"title":"Zinc","ranges":[0,0,50],"measures":[13.33333333,13.33333333],"markers":[0.1]},
+            {"title":"Chromium","ranges":[0,0,50],"measures":[0.85,0.85],"markers":[0.1]},
+            {"title":"Arsenic","ranges":[0,0,50],"measures":[0.825,0.825],"markers":[0.1]},
+            {"title":" Mercury","ranges":[0,0,50],"measures":[0.5, 0.5],"markers":[0.1]}
+        ],
+        "e": [
+            {"title":"Total coliforms","ranges":[0,0,50],"measures":[5478.333333,5478.333333],"markers":[0.1]},
+            {"title":"Fecal coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal streptococci ","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "f": [
+            {"title":"Chemical Oxygen Demand (Cr)","ranges":[0,0,50],"measures":[7.025,7.025],"markers":[0.1]},
+            {"title":"Chemical Oxygen Demand (Mn)","ranges":[0,0,50],"measures":[1.95,1.95],"markers":[0.1]}
+        ],
+        "g": [
+            {"title":"Total phosphorus","ranges":[0,0,50],"measures":[0.17333333,0.17333333],"markers":[0.1]},
+            {"title":"Potassium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Sodium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Total nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Inorganic nitrogen","ranges":[0,0,50],"measures":[7.575,7.575],"markers":[0.1]},
+            {"title":"Organic nitrogen","ranges":[0,0,50],"measures":[0.442166667,0.442166667],"markers":[0.1]}
+
+        ],
+        "h": [
+            {"title":"Biochemical Oxygen","ranges":[0,0,50],"measures":[2.25,2.25],"markers":[0.1]}
+        ],
+        "i": [
+            {"title":"Dissolved oxygen","ranges":[0,0,50],"measures":[9.666666667,9.666666667],"markers":[0.1]}
+        ],
+        "j": [
+            {"title":"gamma-Hexachlorocyclohexane","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Petroleum hydrocarbons","ranges":[0,0,50],"measures":[0.024923077,0.024923077],"markers":[0.1]}
+        ],
+        "k": [
+            {"title":"PCB 101/118/138/153/180/28/52","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"PAHs","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Anionic active surfactants","ranges":[0,0,50],"measures":[0.034,0.034],"markers":[1.5]}
+        ]
+    },
+    "2010": {
+        "a": [
+            {"title":"Water temperature","ranges":[0,0,20],"measures":[12,12],"markers":[14]},
+            {"title":"Total Hardness","ranges":[0,0,150],"measures":[0,0],"markers":[131.95]}
+        ],
+        "b": [
+            {"title":"Carbonates","ranges":[0,0,25],"measures":[0,0],"markers":[18.575]},
+            {"title":"Bicarbonates","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]}
+        ],
+        "c": [
+            {"title":"Chlorides","ranges":[0,0,50],"measures":[9.375,9.375],"markers":[0.1]},
+            {"title":"Cyanides","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Nitrates","ranges":[0,0,50],"measures":[1.511102963,1.511102963],"markers":[1.5]},
+            {"title":"Nitrites","ranges":[0,0,50],"measures":[0.048414815,0.048414815],"markers":[1.5]},
+            {"title":"Sulphates","ranges":[0,0,50],"measures":[0,0],"markers":[1.5]}
+        ],
+        "d": [
+            {"title":"Nickel","ranges":[0,0,50],"measures":[2.27, 2.27],"markers":[0.1]},
+            {"title":"Copper","ranges":[0,0,50],"measures":[8.891666667,8.891666667],"markers":[0.1]},
+            {"title":"Iron","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Magnesium","ranges":[0,0,50],"measures":[6.191666,6.191666],"markers":[0.1]},
+            {"title":"Cadmium","ranges":[0,0,50],"measures":[0.2625,0.2625],"markers":[0.1]},
+            {"title":"Manganese","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Zinc","ranges":[0,0,50],"measures":[16.54545455,16.54545455],"markers":[0.1]},
+            {"title":"Chromium","ranges":[0,0,50],"measures":[0.69,0.69],"markers":[0.1]},
+            {"title":"Arsenic","ranges":[0,0,50],"measures":[1.008333333,1.008333333],"markers":[0.1]},
+            {"title":" Mercury","ranges":[0,0,50],"measures":[1,1],"markers":[0.1]}
+        ],
+        "e": [
+            {"title":"Total coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal streptococci ","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "f": [
+            {"title":"Chemical Oxygen Demand (Cr)","ranges":[0,0,50],"measures":[7.183333333,7.183333333],"markers":[0.1]},
+            {"title":"Chemical Oxygen Demand (Mn)","ranges":[0,0,50],"measures":[3.633333333,3.633333333],"markers":[0.1]}
+        ],
+        "g": [
+            {"title":"Total phosphorus","ranges":[0,0,50],"measures":[0.323703704,0.323703704],"markers":[0.1]},
+            {"title":"Potassium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Sodium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Total nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Inorganic nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Organic nitrogen","ranges":[0,0,50],"measures":[0.66,0.66],"markers":[0.1]}
+
+        ],
+        "h": [
+            {"title":"Biochemical Oxygen","ranges":[0,0,50],"measures":[2.158333333,2.158333333],"markers":[0.1]}
+        ],
+        "i": [
+            {"title":"Dissolved oxygen","ranges":[0,0,50],"measures":[10.225,10.225],"markers":[0.1]}
+        ],
+        "j": [
+            {"title":"gamma-Hexachlorocyclohexane","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Petroleum hydrocarbons","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "k": [
+            {"title":"PCB 101/118/138/153/180/28/52","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"PAHs","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Anionic active surfactants","ranges":[0,0,50],"measures":[0,0],"markers":[1.5]}
+        ]
+    },
+    "2011": {
+        "a": [
+            {"title":"Water temperature","ranges":[0,0,20],"measures":[14.45833333,14.45833333],"markers":[14]},
+            {"title":"Total Hardness","ranges":[0,0,150],"measures":[0,0],"markers":[131.95]}
+        ],
+        "b": [
+            {"title":"Carbonates","ranges":[0,0,25],"measures":[0,0],"markers":[18.575]},
+            {"title":"Bicarbonates","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]}
+        ],
+        "c": [
+            {"title":"Chlorides","ranges":[0,0,50],"measures":[10.575, 10.575],"markers":[0.1]},
+            {"title":"Cyanides","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Nitrates","ranges":[0,0,50],"measures":[1.14958333, 1.14958333],"markers":[1.5]},
+            {"title":"Nitrites","ranges":[0,0,50],"measures":[0.0255,0.0255],"markers":[1.5]},
+            {"title":"Sulphates","ranges":[0,0,50],"measures":[0,0],"markers":[1.5]}
+        ],
+        "d": [
+            {"title":"Nickel","ranges":[0,0,50],"measures":[2.946666667,2.946666667],"markers":[0.1]},
+            {"title":"Copper","ranges":[0,0,50],"measures":[3.283333333,3.283333333],"markers":[0.1]},
+            {"title":"Iron","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Magnesium","ranges":[0,0,50],"measures":[7.123076923,7.123076923],"markers":[0.1]},
+            {"title":"Cadmium","ranges":[0,0,50],"measures":[0.166666667,0.166666667],"markers":[0.1]},
+            {"title":"Manganese","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Zinc","ranges":[0,0,50],"measures":[8.541666667,8.541666667],"markers":[0.1]},
+            {"title":"Chromium","ranges":[0,0,50],"measures":[0.073333333,0.073333333],"markers":[0.1]},
+            {"title":"Arsenic","ranges":[0,0,50],"measures":[1.205555556,1.205555556],"markers":[0.1]},
+            {"title":" Mercury","ranges":[0,0,50],"measures":[0.357142857,0.357142857],"markers":[0.1]}
+        ],
+        "e": [
+            {"title":"Total coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal streptococci ","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "f": [
+            {"title":"Chemical Oxygen Demand (Cr)","ranges":[0,0,50],"measures":[5.833333333,5.833333333],"markers":[0.1]},
+            {"title":"Chemical Oxygen Demand (Mn)","ranges":[0,0,50],"measures":[2.520833333,2.520833333],"markers":[0.1]}
+        ],
+        "g": [
+            {"title":"Total phosphorus","ranges":[0,0,50],"measures":[0.143,0.143],"markers":[0.1]},
+            {"title":"Potassium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Sodium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Total nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Inorganic nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Organic nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+
+        ],
+        "h": [
+            {"title":"Biochemical Oxygen","ranges":[0,0,50],"measures":[3.37826087,3.37826087],"markers":[0.1]}
+        ],
+        "i": [
+            {"title":"Dissolved oxygen","ranges":[0,0,50],"measures":[9.965833333,9.965833333],"markers":[0.1]}
+        ],
+        "j": [
+            {"title":"gamma-Hexachlorocyclohexane","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Petroleum hydrocarbons","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "k": [
+            {"title":"PCB 101/118/138/153/180/28/52","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"PAHs","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Anionic active surfactants","ranges":[0,0,50],"measures":[0,0],"markers":[1.5]}
+        ]
+    },
+    "2012": {
+        "a": [
+            {"title":"Water temperature","ranges":[0,0,20],"measures":[12.875,12.875],"markers":[14]},
+            {"title":"Total Hardness","ranges":[0,0,150],"measures":[0,0],"markers":[131.95]}
+        ],
+        "b": [
+            {"title":"Carbonates","ranges":[0,0,25],"measures":[0,0],"markers":[18.575]},
+            {"title":"Bicarbonates","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]}
+        ],
+        "c": [
+            {"title":"Chlorides","ranges":[0,0,50],"measures":[9.416666667,9.416666667],"markers":[0.1]},
+            {"title":"Cyanides","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Nitrates","ranges":[0,0,50],"measures":[0.899166667,0.899166667],"markers":[1.5]},
+            {"title":"Nitrites","ranges":[0,0,50],"measures":[0.02625,0.02625],"markers":[1.5]},
+            {"title":"Sulphates","ranges":[0,0,50],"measures":[0,0],"markers":[1.5]}
+        ],
+        "d": [
+            {"title":"Nickel","ranges":[0,0,50],"measures":[0.141666667,0.141666667],"markers":[0.1]},
+            {"title":"Copper","ranges":[0,0,50],"measures":[2.966666667,2.966666667],"markers":[0.1]},
+            {"title":"Iron","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Magnesium","ranges":[0,0,50],"measures":[6.35,6.35],"markers":[0.1]},
+            {"title":"Cadmium","ranges":[0,0,50],"measures":[0.25,0.25],"markers":[0.1]},
+            {"title":"Manganese","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Zinc","ranges":[0,0,50],"measures":[7.25,7.25],"markers":[0.1]},
+            {"title":"Chromium","ranges":[0,0,50],"measures":[0.283333333,0.283333333],"markers":[0.1]},
+            {"title":"Arsenic","ranges":[0,0,50],"measures":[0.358333333,0.358333333],"markers":[0.1]},
+            {"title":" Mercury","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "e": [
+            {"title":"Total coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal streptococci ","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "f": [
+            {"title":"Chemical Oxygen Demand (Cr)","ranges":[0,0,50],"measures":[4.958333333,4.958333333],"markers":[0.1]},
+            {"title":"Chemical Oxygen Demand (Mn)","ranges":[0,0,50],"measures":[3.259090909,3.259090909],"markers":[0.1]}
+        ],
+        "g": [
+            {"title":"Total phosphorus","ranges":[0,0,50],"measures":[0.124208333,0.124208333],"markers":[0.1]},
+            {"title":"Potassium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Sodium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Total nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Inorganic nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Organic nitrogen","ranges":[0,0,50],"measures":[0.252916667,0.252916667],"markers":[0.1]}
+
+        ],
+        "h": [
+            {"title":"Biochemical Oxygen","ranges":[0,0,50],"measures":[2.218181818,2.218181818],"markers":[0.1]}
+        ],
+        "i": [
+            {"title":"Dissolved oxygen","ranges":[0,0,50],"measures":[10.21291667,10.21291667],"markers":[0.1]}
+        ],
+        "j": [
+            {"title":"gamma-Hexachlorocyclohexane","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Petroleum hydrocarbons","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "k": [
+            {"title":"PCB 101/118/138/153/180/28/52","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"PAHs","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Anionic active surfactants","ranges":[0,0,50],"measures":[0,0],"markers":[1.5]}
+        ]
+    },
+    "2013": {
+        "a": [
+            {"title":"Water temperature","ranges":[0,0,20],"measures":[12.95833333,12.95833333],"markers":[14]},
+            {"title":"Total Hardness","ranges":[0,0,150],"measures":[0,0],"markers":[131.95]}
+        ],
+        "b": [
+            {"title":"Carbonates","ranges":[0,0,25],"measures":[0,0],"markers":[18.575]},
+            {"title":"Bicarbonates","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]}
+        ],
+        "c": [
+            {"title":"Chlorides","ranges":[0,0,50],"measures":[11.48333333,11.48333333],"markers":[0.1]},
+            {"title":"Cyanides","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Nitrates","ranges":[0,0,50],"measures":[1.014166667,1.014166667],"markers":[1.5]},
+            {"title":"Nitrites","ranges":[0,0,50],"measures":[0.0255,0.0255],"markers":[1.5]},
+            {"title":"Sulphates","ranges":[0,0,50],"measures":[0,0],"markers":[1.5]}
+        ],
+        "d": [
+            {"title":"Nickel","ranges":[0,0,50],"measures":[0.291666667,0.291666667],"markers":[0.1]},
+            {"title":"Copper","ranges":[0,0,50],"measures":[2.9,2.9],"markers":[0.1]},
+            {"title":"Iron","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Magnesium","ranges":[0,0,50],"measures":[7.216666667,7.216666667],"markers":[0.1]},
+            {"title":"Cadmium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Manganese","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Zinc","ranges":[0,0,50],"measures":[5.833333333,5.833333333],"markers":[0.1]},
+            {"title":"Chromium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Arsenic","ranges":[0,0,50],"measures":[0.35,0.35],"markers":[0.1]},
+            {"title":" Mercury","ranges":[0,0,50],"measures":[0.005909091,0.005909091],"markers":[0.1]}
+        ],
+        "e": [
+            {"title":"Total coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal streptococci ","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "f": [
+            {"title":"Chemical Oxygen Demand (Cr)","ranges":[0,0,50],"measures":[2.166666667,2.166666667],"markers":[0.1]},
+            {"title":"Chemical Oxygen Demand (Mn)","ranges":[0,0,50],"measures":[2.841666667,2.841666667],"markers":[0.1]}
+        ],
+        "g": [
+            {"title":"Total phosphorus","ranges":[0,0,50],"measures":[0.0625,0.0625],"markers":[0.1]},
+            {"title":"Potassium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Sodium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Total nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Inorganic nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Organic nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+
+        ],
+        "h": [
+            {"title":"Biochemical Oxygen","ranges":[0,0,50],"measures":[2.05,2.05],"markers":[0.1]}
+        ],
+        "i": [
+            {"title":"Dissolved oxygen","ranges":[0,0,50],"measures":[10.025,10.025],"markers":[0.1]}
+        ],
+        "j": [
+            {"title":"gamma-Hexachlorocyclohexane","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Petroleum hydrocarbons","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "k": [
+            {"title":"PCB 101/118/138/153/180/28/52","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"PAHs","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Anionic active surfactants","ranges":[0,0,50],"measures":[0,0],"markers":[1.5]}
+        ]
+    },
+    "2014": {
+        "a": [
+            {"title":"Water temperature","ranges":[0,0,20],"measures":[12.28333333,12.28333333],"markers":[14]},
+            {"title":"Total Hardness","ranges":[0,0, 150],"measures":[132.9833333,132.9833333],"markers":[131.95]}
+        ],
+        "b": [
+            {"title":"Carbonates","ranges":[0,0,25],"measures":[0,0],"markers":[18.575]},
+            {"title":"Bicarbonates","ranges":[0,2,4],"measures":[133.1833, 133.1833],"markers":[0.5]}
+        ],
+        "c": [
+            {"title":"Chlorides","ranges":[0,0,50],"measures":[13.41666667,13.41666667],"markers":[0.1]},
+            {"title":"Cyanides","ranges":[0,2,4],"measures":[0, 0],"markers":[0.5]},
+            {"title":"Nitrates","ranges":[0,0,50],"measures":[1.3575,1.3575],"markers":[1.5]},
+            {"title":"Nitrites","ranges":[0,0,50],"measures":[0.02975,0.02975],"markers":[1.5]},
+            {"title":"Sulphates","ranges":[0,0,50],"measures":[32.55,32.55],"markers":[1.5]}
+        ],
+        "d": [
+            {"title":"Nickel","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Copper","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Iron","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Magnesium","ranges":[0,0,50],"measures":[6.816666667,6.816666667],"markers":[0.1]},
+            {"title":"Cadmium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Manganese","ranges":[0,0,50],"measures":[0.025,0.025],"markers":[0.1]},
+            {"title":"Zinc","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Chromium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Arsenic","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":" Mercury","ranges":[0,0,50],"measures":[0.008916667,0.008916667],"markers":[0.1]}
+        ],
+        "e": [
+            {"title":"Total coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal streptococci ","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "f": [
+            {"title":"Chemical Oxygen Demand (Cr)","ranges":[0,0,50],"measures":[8.75,8.75],"markers":[0.1]},
+            {"title":"Chemical Oxygen Demand (Mn)","ranges":[0,0,50],"measures":[2.514285714,2.514285714],"markers":[0.1]}
+        ],
+        "g": [
+            {"title":"Total phosphorus","ranges":[0,0,50],"measures":[0.049,0.049],"markers":[0.1]},
+            {"title":"Potassium","ranges":[0,0,50],"measures":[3.433333333,3.433333333],"markers":[0.1]},
+            {"title":"Sodium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Total nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Inorganic nitrogen","ranges":[0,0,50],"measures":[12.78333333,12.78333333],"markers":[0.1]},
+            {"title":"Organic nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+
+        ],
+        "h": [
+            {"title":"Biochemical Oxygen","ranges":[0,0,50],"measures":[2.133333333,2.133333333],"markers":[0.1]}
+        ],
+        "i": [
+            {"title":"Dissolved oxygen","ranges":[0,0,50],"measures":[10.28333333,10.28333333],"markers":[0.1]}
+        ],
+        "j": [
+            {"title":"gamma-Hexachlorocyclohexane","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Petroleum hydrocarbons","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "k": [
+            {"title":"PCB 101/118/138/153/180/28/52","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"PAHs","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Anionic active surfactants","ranges":[0,0,50],"measures":[0,0],"markers":[1.5]}
+        ]
+    },
+    "2015": {
+        "a": [
+            {"title":"Water temperature","ranges":[0,0,20],"measures":[14.27272727,14.27272727],"markers":[14]},
+            {"title":"Total Hardness","ranges":[0,0, 150],"measures":[118.3166667,118.3166667],"markers":[131.95]}
+        ],
+        "b": [
+            {"title":"Carbonates","ranges":[0,0,150],"measures":[140.3,140.3],"markers":[18.575]},
+            {"title":"Bicarbonates","ranges":[0,2,4],"measures":[120.78,120.78],"markers":[0.5]}
+        ],
+        "c": [
+            {"title":"Chlorides","ranges":[0,0,50],"measures":[11.35833333,11.35833333],"markers":[0.1]},
+            {"title":"Cyanides","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Nitrates","ranges":[0,0,50],"measures":[1.281666667,1.281666667],"markers":[1.5]},
+            {"title":"Nitrites","ranges":[0,0,50],"measures":[0.0455,0.0455],"markers":[1.5]},
+            {"title":"Sulphates","ranges":[0,0,50],"measures":[27.85,27.85],"markers":[1.5]}
+        ],
+        "d": [
+            {"title":"Nickel","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Copper","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Iron","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Magnesium","ranges":[0,0,50],"measures":[5.008333333,5.008333333],"markers":[0.1]},
+            {"title":"Cadmium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Manganese","ranges":[0,0,50],"measures":[0.005166667,0.005166667],"markers":[0.1]},
+            {"title":"Zinc","ranges":[0,0,50],"measures":[7.5,7.5],"markers":[0.1]},
+            {"title":"Chromium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Arsenic","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":" Mercury","ranges":[0,0,50],"measures":[0.005583333,0.005583333],"markers":[0.1]}
+        ],
+        "e": [
+            {"title":"Total coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal streptococci ","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "f": [
+            {"title":"Chemical Oxygen Demand (Cr)","ranges":[0,0,50],"measures":[11.58333333,11.58333333],"markers":[0.1]},
+            {"title":"Chemical Oxygen Demand (Mn)","ranges":[0,0,50],"measures":[2.55,2.55],"markers":[0.1]}
+        ],
+        "g": [
+            {"title":"Total phosphorus","ranges":[0,0,50],"measures":[0.052454545,0.052454545],"markers":[0.1]},
+            {"title":"Potassium","ranges":[0,0,50],"measures":[3.05,3.05],"markers":[0.1]},
+            {"title":"Sodium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Total nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Inorganic nitrogen","ranges":[0,0,50],"measures":[10.3,10.3],"markers":[0.1]},
+            {"title":"Organic nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+
+        ],
+        "h": [
+            {"title":"Biochemical Oxygen","ranges":[0,0,50],"measures":[1.908333333,1.908333333],"markers":[0.1]}
+        ],
+        "i": [
+            {"title":"Dissolved oxygen","ranges":[0,0,50],"measures":[9.675,9.675],"markers":[0.1]}
+        ],
+        "j": [
+            {"title":"gamma-Hexachlorocyclohexane","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Petroleum hydrocarbons","ranges":[0,0,50],"measures":[0.013333333,0.013333333],"markers":[0.1]}
+        ],
+        "k": [
+            {"title":"PCB 101/118/138/153/180/28/52","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"PAHs","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Anionic active surfactants","ranges":[0,0,50],"measures":[0,0],"markers":[1.5]}
+        ]
+    },
+    "2016": {
+        "a": [
+            {"title":"Water temperature","ranges":[0,0,20],"measures":[15.25,15.25],"markers":[14]},
+            {"title":"Total Hardness","ranges":[0,0, 150],"measures":[103.0083333, 103.0083333],"markers":[131.95]}
+        ],
+        "b": [
+            {"title":"Carbonates","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Bicarbonates","ranges":[0,2,4],"measures":[110.1166667, 110.1166667],"markers":[0.5]}
+        ],
+        "c": [
+            {"title":"Chlorides","ranges":[0,0,50],"measures":[9.616666667,9.616666667],"markers":[0.1]},
+            {"title":"Cyanides","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Nitrates","ranges":[0,0,50],"measures":[0.9025,0.9025],"markers":[1.5]},
+            {"title":"Nitrites","ranges":[0,0,50],"measures":[0.025,0.025],"markers":[1.5]},
+            {"title":"Sulphates","ranges":[0,0,50],"measures":[17.58333333,17.58333333],"markers":[1.5]}
+        ],
+        "d": [
+            {"title":"Nickel","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Copper","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Iron","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Magnesium","ranges":[0,0,50],"measures":[5.658333333,5.658333333],"markers":[0.1]},
+            {"title":"Cadmium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Manganese","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Zinc","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Chromium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Arsenic","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":" Mercury","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "e": [
+            {"title":"Total coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal coliforms","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Fecal streptococci ","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "f": [
+            {"title":"Chemical Oxygen Demand (Cr)","ranges":[0,0,50],"measures":[10.41666667,10.41666667],"markers":[0.1]},
+            {"title":"Chemical Oxygen Demand (Mn)","ranges":[0,0,50],"measures":[2.573333333,2.573333333],"markers":[0.1]}
+        ],
+        "g": [
+            {"title":"Total phosphorus","ranges":[0,0,50],"measures":[0.072166667,0.072166667],"markers":[0.1]},
+            {"title":"Potassium","ranges":[0,0,50],"measures":[2.466666667,2.466666667],"markers":[0.1]},
+            {"title":"Sodium","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Total nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Inorganic nitrogen","ranges":[0,0,50],"measures":[8.016666667,8.016666667],"markers":[0.1]},
+            {"title":"Organic nitrogen","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+
+        ],
+        "h": [
+            {"title":"Biochemical Oxygen","ranges":[0,0,50],"measures":[1.483333333,1.483333333],"markers":[0.1]}
+        ],
+        "i": [
+            {"title":"Dissolved oxygen","ranges":[0,0,50],"measures":[9.866666667,9.866666667],"markers":[0.1]}
+        ],
+        "j": [
+            {"title":"gamma-Hexachlorocyclohexane","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"Petroleum hydrocarbons","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]}
+        ],
+        "k": [
+            {"title":"PCB 101/118/138/153/180/28/52","ranges":[0,0,50],"measures":[0,0],"markers":[0.1]},
+            {"title":"PAHs","ranges":[0,2,4],"measures":[0,0],"markers":[0.5]},
+            {"title":"Anionic active surfactants","ranges":[0,0,50],"measures":[0,0],"markers":[1.5]}
+        ]
+    }    
+}

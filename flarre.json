@@ -1,0 +1,124 @@
+{
+ "name": "物质分类",
+ "children": [
+  {
+   "name": "理化指标",
+   "children": [
+    {
+     "name": "水温",
+     "children": [
+      {"name": "Water temperature", "size": "C"}
+     ]
+    },
+    {
+     "name": "矿化度",
+     "children": [
+      {"name": "Cyanides", "size": "µg/l"},
+      {"name": "Chlorides", "size": "mg/l"},
+      {"name": "Sulfides", "size": "mg/l"},
+      {"name": "Sulphates", "size": "mg/l"},
+      {"name": "Nitrates", "size": "mg/l"},
+      {"name": "Nitrites", "size": "mg/l"}
+     ]
+    },
+    {
+     "name": "硬度",
+     "children": [
+      {"name": "Total hardness", "size": "mg/l"}
+     ]
+    },
+    {
+     "name": "碱度",
+     "children": [
+      {"name": "Carbonates", "size": "mg/l"},
+      {"name": "Bicarbonates", "size": "mg/l"}
+     ]
+    },
+    {
+     "name": "非工业级重金属",
+     "children": [
+      {"name": "Aluminium", "size": "µg/l"},
+      {"name": "Nickel", "size": "µg/l"},
+      {"name": "Copper", "size": "µg/l"},
+      {"name": "Iron", "size": "mg/l"},
+      {"name": "Magnesium", "size": "mg/l"},
+      {"name": "Cadmium", "size": "µg/l"},
+      {"name": "Barium", "size": "µg/l"},
+      {"name": "Berilium", "size": "µg/l"},
+      {"name": "Manganese", "size": "mg/l"},
+      {"name": "Zinc", "size": "µg/l"},
+      {"name": "Chromium", "size": "µg/l"},
+      {"name": "Cesium", "size": "µg/l"},
+      {"name": "Arsenic", "size": "µg/l"},
+      {"name": "Mercury", "size": "µg/l"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "微生物",
+   "children": [
+    {"name": "Total coliforms"},
+    {"name": "Fecal coliforms"},  
+    {"name": "Fecal streptococci"}
+   ]
+  },
+  {
+   "name": "有机污染综合指标",
+   "children": [
+    {"name": "溶解氧DO"},
+    {
+     "name": "化学需氧量",
+     "children": [
+      {"name": "Chemical Oxygen Demand (Cr)", "size": 721},
+      {"name": "Chemical Oxygen Demand (Mn)", "size": 4294}
+     ]
+    },
+    {
+     "name": "生化需氧量BOD",
+     "children": [
+      {"name": "Biochemical Oxygen", "size": 721}
+     ]
+    },
+    {"name": "总有机碳量TOC", "size": 1759},
+    {
+     "name": "有机毒物",
+     "children": [
+      {"name": "Pentachlorobenzene", "size": 721},
+      {"name": "gamma-Hexachlorocyclohexane", "size": 4294},
+      {"name": "Heptachlor", "size": 721},
+      {"name": "Heptachloroepoxide", "size": 4294},
+      {"name": "1,2,3-Trichlorobenzene", "size": 721},
+      {"name": "1,2,4-Trichlorobenzene", "size": 4294},
+      {"name": "Hexachlorobenzene", "size": 4294},
+      {"name": "Tetrachloromethane", "size": 4294},
+      {"name": "Methoxychlor", "size": 4294},
+      {"name": "Petroleum hydrocarbons", "size": 4294},
+      {"name": "alpha-Hexachlorocyclohexane", "size": 4294},
+      {"name": "beta-Hexaxchlorocyclohexane", "size": 4294}
+     ]
+    },
+    {
+     "name": "农药营养物质",
+     "children": [
+      {"name": "Total phosphorus", "size": 721},
+      {"name": "Potassium", "size": 4294},
+      {"name": "Sodium", "size": 721},
+      {"name": "Total nitrogen", "size": 4294},
+      {"name": "Inorganic nitrogen", "size": 721},
+      {"name": "Organic nitrogen", "size": 4294}
+     ]
+    },
+    {
+     "name": "清洁剂、杀虫剂类",
+     "children": [
+      {"name": "PCB", "size": 721},
+      {"name": "Anionic active surfactants", "size": 4294},
+      {"name": "PAHs类", "size": 721},
+      {"name": "各式毒剂", "size": 4294}
+     ]
+    }
+   ]
+  }
+]
+} 

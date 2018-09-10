@@ -1,0 +1,144 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Home</title>
+
+<link href="./css/chart.css" rel="stylesheet" type="text/css">
+<link href="./css/bullet.css" rel="stylesheet" type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Custom Theme files -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- js -->
+<script src="js/jquery-1.11.1.min.js"></script>
+<!-- animation-effect -->
+<link href="css/animate.min.css" rel="stylesheet"> 
+<script src="js/wow.min.js"></script>
+<script>
+ new WOW().init();
+</script>
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<!-- //animation-effect -->
+<link href='https://fonts.googleapis.com/css?family=Alex+Brush' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Cabin:400,400italic,500,500italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+<style>
+
+
+</style>
+</head>
+
+<body>
+<!-- header -->
+	<div class="header">
+		<div class="container">
+			<nav class="navbar navbar-default">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+				  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				  </button>
+					<div class="logo">
+						<a class="navbar-brand" href="group.html">VAST Challenge</a>
+					</div>
+				</div>
+			
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+						<nav class="cl-effect-13" id="cl-effect-13">
+						</nav>
+						<br><br><br><br>
+					</div>
+					<!-- /.navbar-collapse -->
+			</nav>
+		</div>
+	</div>
+<!-- header -->
+<!-- banner-bottom -->
+	<!-- <div class="banner-bottom">
+		<div class="container">
+			<div class="banner-bottom-grids">
+				<div style="display:inline-block">
+					<span>2009</span>
+					<input type="range" min="2009" max="2016" step="1" value="2009" id="limit" onchange="valChange(this.value)" />
+					<span>2016</span>
+					<svg id="svg1" width="450" height="450"></svg>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div> -->
+<!-- //banner-bottom -->
+
+<div style="margin: 50px;">
+	<div style="width: 100%">
+			<text style="margin-left: 600px; font-size: 20px;">Current Year:</text><span id="nowYear" style="font-size: 20px;">0</span>
+	</div>
+	<div class="container">
+		<svg id="svg2" width="450" height="450" ></svg><!--折线-->
+		<svg id="svg1" width="450" height="450" style="margin-left: 60px;"></svg><!--pupple-->
+	</div>
+	<div>
+		<div style="position:absolute;left:50%;transform:translateX(-50%)">
+		<span style="display:inline-block;margin-right: 5px">2009</span>
+		<input style="display:inline-block; width: 20%" type="range" min="2009" max="2016" step="1" value="2009" id="limit" onchange="valChange(this.value)" /><span style="display:inline-block; margin-left:5px;">2016</span>
+	</div>
+	<br><br><br>
+	<div class="container">
+		<div id="svg3"></div><!--子弹-->
+		<br><br>
+	</div>
+  
+</div>
+
+<!-- footer -->
+
+<!-- footer -->
+<div class="footer">
+		<div class="container">
+			<div class="footer-grids">
+				<div class="col-md-4 footer-grid wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+					<h3>cumque nihil impedit</h3>
+					<div class="footer-grd-left">
+						<p>Nam libero tempore, cum 
+							soluta nobis est eligendi optio cumque nihil impedit quo minus 
+							id quod maxime placeat facere possimus, omnis voluptas assumenda 
+							est, omnis dolor repellendus</p>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+				<div class="col-md-4 footer-grid wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+					<h3>Team Introduction</h3>
+					<ul>
+						<li><a href="#">lby</a></li>
+						<li><a href="#">sfl</a></li>
+					</ul>
+				</div>
+				<div class="col-md-4 footer-grid wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+					<h3>VAST 2018</h3>
+					<ul>
+						<li><a href="#">2018-7</a></li>
+					</ul>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+	
+<!-- //footer -->
+<!-- for bootstrap working -->
+<script src="https://d3js.org/d3.v4.min.js"></script>
+	<script src="js/bootstrap.js"></script>
+	<script src="./js/circle.js"></script>
+<script src="./js/line.js"></script>
+<script src="./js/bullet.js"></script>
+<script src="./js/bullet1.js"></script>
+
+<!-- //for bootstrap working -->
+</body>
+</html>
