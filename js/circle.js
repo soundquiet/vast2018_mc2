@@ -27,9 +27,11 @@ function process(d){
 
 function init(){
     now = document.getElementById("limit").value;
+    document.querySelector('#svg1').innerHTML = '';
     document.getElementById("nowYear").innerHTML = now;
-    var svg = d3.select("#svg1"),
-    margin = 20,
+    var svg = d3.select("#svg1");
+    // svg.remove();
+    var margin = 20,
     diameter = +svg.attr("width"), // 以svg的宽度来作为直径的长度
     g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 

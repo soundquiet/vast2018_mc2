@@ -45,16 +45,7 @@ function update(currentTime, yearData){
     var fileName = "../data/line/"+mapping[yearData.data.name]+".csv"
     d3.csv(fileName, type, function(error, data) {
     if (error) throw error;
-      console.log(data)
-    // var cities = data.columns.slice(1).map(function(id) {
-    //   return {
-    //     id: id,
-    //     values: data.map(function(d) {
-    //       return {date: d.year, temperature: d[id]};
-    //     })
-    //   };
-    // });
-
+    console.log(data)
 
     var cities = data.columns.slice(1).map(function(id) {    
       dataWithNaN = data.map(function(d) {
@@ -64,7 +55,7 @@ function update(currentTime, yearData){
       return {
         id: id,
         values: fltData.map(function(d) {
-          return {year: d.year, temperature: d.temperature};
+          return { year: d.year, temperature: d.temperature };
         })
       };
     });
@@ -88,7 +79,7 @@ function update(currentTime, yearData){
     g1.append("g")
         .attr("class", "axis axis--y")
         .call(d3.axisLeft(y1))
-      .append("text")
+        .append("text")
         .attr("transform", "rotate(-90)")
         .attr("y", 6)
         .attr("dy", "0.71em")
@@ -98,12 +89,28 @@ function update(currentTime, yearData){
     var city = g1.selectAll(".city")
       .data(cities)
       .enter().append("g")
-        .attr("class", "city");
+      .attr("class", "city");
 
     city.append("path")
         .attr("class", "line")
         .attr("d", function(d) { return line(d.values); })
         .style("stroke", function(d) { return z1(d.id); });
+        // .on("mouseover", function(d, i) {
+        //   d3.select(this)
+        //     // .style("stroke", function(d) { return color(d.key); })
+        //     .style('stroke-width', '5');
+        //     d3.select("#svg2")
+        //     . append("div")
+        //     . style("position","absolute")
+        //     . style("z-index","10")
+        //     . style("visibility","hidden")
+        //     . text("a simple tooltip");
+        // })
+        // .on("mouseout", function(d, i) {
+        //   d3.select(this)
+        //     // .style("stroke", function(d) { return color(d.key); })
+        //     .style('stroke-width', '1');
+        // });
 
     city.append("text")
         .datum(function(d) { return {id: d.id, value: d.values[d.values.length - 1]}; })
@@ -111,6 +118,47 @@ function update(currentTime, yearData){
         .attr("x", 3)
         .attr("dy", "0.35em")
         .style("font", "10px sans-serif")
-        .text(function(d) { return d.id; });
+        .text(function(d) { return d.id; })
+        .on("mouseover", function(d, i) {
+          d3.select(this)
+            // .style("stroke", function(d) { return color(d.key); })
+            .style("font", "20px sans-serif");
+        })
+        .on("mouseout", function(d, i) {
+          d3.select(this)
+            // .style("stroke", function(d) { return color(d.key); })
+            .style("font", "10px sans-serif");
+        });
+    
+
+
+    var group = g1.selectAll(".city");
+    console.log(group);
+    group.append("path");
+    group.append("text");
+    console.log(group);
+    group.on("mouseover", function(d, i) {
+      console.log(this);
+      d3.select(this)
+        .select("path")
+        .style('stroke-width', '5');
+      d3.select(this)
+        .select("text")
+        .style("font", "20px sans-serif");
+      
+      })
+      .on("mouseout", function(d, i) {
+        console.log(this);
+        d3.select(this)
+          .select("path")
+          .style('stroke-width', '1');
+        d3.select(this)
+          .select("text")
+          .style("font", "10px sans-serif");
+        
+      });
+    
     });
+    
+    
 }
