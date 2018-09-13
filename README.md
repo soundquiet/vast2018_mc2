@@ -3,7 +3,7 @@ This is training demo for Vast Challenge 2018 mini challenge 2.
 
 https://soundquiet.github.io/vast2018/  
 
-![gif](./img/home.gif)
+![gif](./img/Home.gif)
 
 We categorize the indexes of the river into small groups.  
 There are three parts of our system: **the bubble chart, multiseries line chart and bullet chart.**
