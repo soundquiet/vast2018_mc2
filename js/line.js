@@ -42,7 +42,7 @@ function update(currentTime, yearData){
       .y(function(d) { return y1(d.temperature); });
 
 
-    var fileName = "https://github.com/soundquiet/vast2018_mc2/tree/master/data/line/"+mapping[yearData.data.name]+".csv"
+    var fileName = "https://soundquiet.github.io/vast2018_mc2/data/line/"+mapping[yearData.data.name]+".csv"
     d3.csv(fileName, type, function(error, data) {
     if (error) throw error;
     console.log(data)
