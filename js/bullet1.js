@@ -24,7 +24,7 @@ function updateBullet(year, yearData) {
         .width(width3)
         .height(height3);
 
-    d3.json("../bullet.json", function(error, data) {
+    d3.json("https://github.com/soundquiet/vast2018_mc2/blob/master/bullet.json", function(error, data) {
     if (error) throw error;
     data = data[year][mapping[yearData.data.name]];
     console.log(data);
